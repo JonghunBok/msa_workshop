@@ -9,6 +9,10 @@ MSA에 대한 이해를 높인다.
 각 서비스는 컨테이너화하여 Kubernetes 위에서 돌아갈 것을
 상정한다.
 
+### 이해하고 싶은 개념들
+- 12 Factor Applicatoin
+- Microservice Architecture (MSA)
+
 ## TODO: 왜 12 factor?
 
 ## 개요
